@@ -1,0 +1,35 @@
+{
+  "name": "mobile-church",
+  "version": "1.0.0",
+  "description": "Sistema Mobile de Gestão Eclesiástica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiodicapua1967/mobile-church.git"
+  },
+  "keywords": [
+    "Gestão",
+    "Eclesiástica",
+    "Gestão",
+    "de",
+    "Igrejas",
+    "Gestor",
+    "Igreja",
+    "Mobile"
+  ],
+  "author": "Claudio Di Capua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiodicapua1967/mobile-church/issues"
+  },
+  "homepage": "https://github.com/claudiodicapua1967/mobile-church#readme",
+  "dependencies": {
+    "angular-sqlite": "^0.1.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "sqlite3": "^3.1.8"
+  }
+}
